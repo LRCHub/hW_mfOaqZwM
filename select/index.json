@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "虹のグランド スラム",
+  "base_artist": "Toshinobu Kubota",
+  "createdAt": "2025-12-01T18:59:09.816934Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虹のグランドスラム",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_01_虹のグランドスラム_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "虹のグランドスラム",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_02_虹のグランドスラム_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "虹のグランドスラム",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_03_虹のグランドスラム_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "虹のグランドスラム",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_04_虹のグランドスラム_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "虹のグランド スラム",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_05_虹のグランド_スラム_久保田_利伸.txt"
+    }
+  ]
+}
